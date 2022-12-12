@@ -8,12 +8,12 @@ Recently migrated from Wix/WordPress to Svelte.
 
 This one's super easy, all you need to do is:
 
-Run
+Run:
 ```bash
 npm install
 ```
 
-then run...
+Then run:
 ```bash
 npm run dev
 ```
