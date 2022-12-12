@@ -30,6 +30,8 @@ h2 {
 ol, ul {
 	font-family: var(--font-text);
 	font-weight: 100;
+	margin-block-start: 0.4em;
+	margin-block-end: 0.4em;
 }
 
 p {
@@ -73,13 +75,46 @@ pre {
 }
 
 .text-column {
-	padding-top: 3rem;
+	padding: 3rem;
 	display: flex;
 	max-width: 48rem;
 	flex: 0.6;
 	flex-direction: column;
 	justify-content: flex-start;
 	margin: 0 auto;
+}
+
+.exam-part {
+	margin-top: 3rem;
+	background: var(--color-theme-1);
+	width: 100%;
+	position: relative;
+}
+
+.exam-part h1, .exam-part h2, .exam-part p, .exam-part ul {
+	color: #fff;
+}
+
+.exam-part > .text-column {
+	padding-top: 0;
+}
+
+.back button {
+	background: none;
+	border-width: 2px;
+	border-color: white;
+	border-radius: 2px;
+	border-style:solid;
+	color: white;
+	position: absolute;
+	right: 5px;
+	top: 5px;
+	font-family: var(--font-text);
+}
+
+.back button:hover {
+	border-color: #363636;
+	color: #363636;
 }
 
 input,

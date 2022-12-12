@@ -9,7 +9,7 @@
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
-<section>
+<section class="text-column">
 	<h1>Hints, tips and advice to help you pass the Cambridge First B2 English exam.</h1>
 	<p>The goal of B2FirstExam.com is to give clear and quick advice for the Cambridge First English exam, formally known as FCE.</p>
 	<p>There's already a lot of sites doing this, but there's far too much to read. If you just want an easy to navigate site with quick tips, you're in the correct place.</p>
