@@ -7,8 +7,9 @@
 	--color-bg-0: rgb(202, 216, 228);
 	--color-bg-1: hsl(209, 36%, 86%);
 	--color-bg-2: hsl(224, 44%, 95%);
-	--color-theme-1: #4da76a;
+	--color-theme-1: #33609e;
 	--color-theme-2: #4075a6;
+	--color-theme-3: #4da76a;
 	--color-text: #363636;
 	--column-width: 42rem;
 	--column-margin-top: 4rem;
@@ -20,11 +21,27 @@ body {
 	margin: 0;
 }
 
+
 h1,
-h2 {
+h2,
+h3 {
 	font-family: var(--font-headers);
 	font-weight: 800;
 	color: var(--color-theme-1)
+}
+
+h1 {
+	font-size: 2rem;
+	text-align: left;
+	text-decoration: underline;
+}
+
+h2 {
+	font-size: 1.4rem;
+}
+
+h3 {
+	color: var(--color-text);
 }
 
 ol, ul {
@@ -32,6 +49,11 @@ ol, ul {
 	font-weight: 100;
 	margin-block-start: 0.4em;
 	margin-block-end: 0.4em;
+}
+
+li::marker {
+	font-weight: 900;
+	padding-right: 10rem;
 }
 
 p {
@@ -45,22 +67,14 @@ p {
 
 a {
 	color: var(--color-theme-1);
+	background-color: #8ac6fd;
 	text-decoration: none;
 	font-family: var(--font-headers);
+	cursor: pointer;
 }
 
 a:hover {
 	text-decoration: underline;
-}
-
-h1 {
-	font-size: 2rem;
-	text-align: left;
-	text-decoration: underline;
-}
-
-h2 {
-	font-size: 1.4rem;
 }
 
 pre {
@@ -125,6 +139,29 @@ button {
 
 button:focus:not(:focus-visible) {
 	outline: none;
+}
+
+.transcript {
+	background-color: #8ac6fd;
+	color: var(--color-theme-1);
+	padding: 2rem;
+	border-radius: 0.2rem;
+}
+
+.transcript span {
+	color: white;
+}
+
+span {
+	font-weight: 900;
+}
+
+hr {
+	background: black;
+	width: 100%;
+	height: 1px;
+	outline: none;
+	border: none;
 }
 
 @media (min-width: 720px) {
