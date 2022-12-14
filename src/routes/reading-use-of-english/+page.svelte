@@ -1,6 +1,9 @@
 <script>
   import ReadingPart1 from "./ReadingPart1.svelte"
   import ReadingPart2 from "./ReadingPart2.svelte"
+  import ReadingPart3 from "./ReadingPart3.svelte"
+  import ReadingPart4 from "./ReadingPart4.svelte"
+  import ReadingPart5 from "./ReadingPart5.svelte"
 </script>
 
 <svelte:head>
@@ -29,3 +32,6 @@
 
 <ReadingPart1 />
 <ReadingPart2 />
+<ReadingPart3 />
+<ReadingPart4 />
+<ReadingPart5 />
