@@ -1,5 +1,6 @@
 <script>
   import ReadingPart1 from "./ReadingPart1.svelte"
+  import ReadingPart2 from "./ReadingPart2.svelte"
 </script>
 
 <svelte:head>
@@ -27,3 +28,4 @@
 </div>
 
 <ReadingPart1 />
+<ReadingPart2 />

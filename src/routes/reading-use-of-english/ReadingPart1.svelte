@@ -52,8 +52,9 @@
         Genealogy is branch of history. It concerns family history <strong
           >(1) ........</strong
         >
-        than the national or world history studied at school. It doesn't merely involved
-        drawing a family tree, hiowever - tracing your family history can also
+        than the national or world history studied at school. It doesn't merely involve
+        drawing a family tree, however - tracing your family history can also
+        <br />
         <strong>(2) ........</strong> in learning about your roots and your identity.
       </p>
 
@@ -94,23 +95,23 @@
         </tr>
       </table>
       <p>
-        Two of these pairings do not exist in English (A and C), so now we have
-        to look at the meaning between (B) and (D).
+        ❌ Two of these pairings do not exist in English (A and C), so now we
+        have to look at the meaning between (B) and (D).
       </p>
       <p>
-        (B) <span class="highlight2">Rather than</span> means to chose/refer to something
-        other than what immediately follows. E.G. I prefer swimming in the sea rather
-        than the pool. Whatever follows rather than is to be considered not important
-        compared to the other option in the sentence.
+        🤔 (B) <span class="highlight2">Rather than</span> means to chose/refer to
+        something other than what immediately follows. E.G. I prefer swimming in
+        the sea rather than the pool. Whatever follows rather than is to be considered
+        not important compared to the other option in the sentence.
       </p>
       <p>
-        (D) <span class="highlight2">(No) sooner… than</span> means that something
+        🤔 (D) <span class="highlight2">(No) sooner… than</span> means that something
         happens immediately after another action, but ‘sooner’ and ‘than’ are separated.
         e.g. I had no sooner arrived than everybody left the party.
       </p>
       <p>
-        Clearly the answer is (B) for this question. (No) sooner… than is quite
-        high level, so don’t worry too much about understanding this, but
+        ✅ Clearly, the answer is (B) for this question. (No) sooner… than is
+        quite high level, so don’t worry too much about understanding this, but
         realise it is not the correct answer here.
       </p>
       <h2>Number (2)</h2>
@@ -133,20 +134,20 @@
         </tr>
       </table>
       <p>
-        Once again, two of these pairings do not exist in English (A and B), so
-        we need to look at the meanings of (C) and (D).
+        ❌ Once again, two of these pairings do not exist in English (A and B),
+        so we need to look at the meanings of (C) and (D).
       </p>
       <p>
-        (C) <span class="highlight2">Result in</span> is a phrasal verb which means
-        to cause a particular situation to happen, eg. The flood resulted in damage
-        to their house.
+        🤔 (C) <span class="highlight2">Result in</span> is a phrasal verb which
+        means to cause a particular situation to happen, eg. The flood resulted in
+        damage to their house.
       </p>
       <p>
-        (D) <span class="highlight2">Lead in</span> is a noun which means something
+        🤔 (D) <span class="highlight2">Lead in</span> is a noun which means something
         that introduces something else, eg. A lead in activity to an English class
         could be a quick game.
       </p>
-      <p>Once again, the answer should now be clear; (C).</p>
+      <p>✅ The answer should now be clear; (C).</p>
     </div>
   </div>
 </div>
