@@ -1,6 +1,7 @@
 # B2 English Exam
 
-![image](https://user-images.githubusercontent.com/105861220/207057188-66297299-6f7a-4033-b43c-345a3ab13492.png)
+![image](https://user-images.githubusercontent.com/105861220/207594691-751bac7e-643a-46af-b864-4b13c0d9428e.png)
+
 
 A website to help students prepare for the Cambridge First Certificate English exam (level B2).
 
