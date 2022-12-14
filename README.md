@@ -4,7 +4,7 @@
 
 A website to help students prepare for the Cambridge First Certificate English exam (level B2).
 
-Recently migrated from Wix/WordPress to Svelte. 
+Recently migrated from Wix/WordPress to Svelte. Now hosted on Vercel: https://b2englishexam.vercel.app/
 
 # Getting Started
 
