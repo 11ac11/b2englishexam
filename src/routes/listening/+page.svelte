@@ -40,7 +40,7 @@
   </p>
 </div>
 
-<ListeningPart1 id="part-1" />
-<ListeningPart2 id="part-2" />
-<ListeningPart3 id="part-3" />
-<ListeningPart4 id="part-4" />
+<ListeningPart1 />
+<ListeningPart2 />
+<ListeningPart3 />
+<ListeningPart4 />
