@@ -1,4 +1,4 @@
-<div class="exam-part">
+<div class="exam-part" id="part-2">
   <div class="text-column">
     <h1>Listening - Part 2</h1>
     <h2>What is listening part 2 like in the First Certificate exam?</h2>

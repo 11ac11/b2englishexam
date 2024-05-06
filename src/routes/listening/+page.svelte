@@ -17,11 +17,18 @@
 
   <p>The test has four sections and takes about 40 minutes:</p>
   <ol>
-    <li><a href="/">Part 1 - listen to 8 recordings (one question each)</a></li>
-    <li><a href="/">Part 2 - complete gapped sentences</a></li>
-    <li><a href="/">Part 3 - 5 speakers and multiple matching</a></li>
     <li>
-      <a href="/">Part 4 - long recording (7 multiple choice questions)</a>
+      <a href="#part-1">Part 1 - listen to 8 recordings (one question each)</a>
+    </li>
+    <li>
+      <a href="#part-2">Part 2 - complete gapped sentences</a>
+    </li>
+    <li>
+      <a href="#part-3">Part 3 - 5 speakers and multiple matching</a>
+    </li>
+    <li>
+      <a href="#part-4">Part 4 - long recording (7 multiple choice questions)</a
+      >
     </li>
   </ol>
   <p>You get one point for each correct answer.</p>
@@ -32,7 +39,8 @@
     films/series and listening to the radio/podcasts in English.
   </p>
 </div>
-<ListeningPart1 />
-<ListeningPart2 />
-<ListeningPart3 />
-<ListeningPart4 />
+
+<ListeningPart1 id="part-1" />
+<ListeningPart2 id="part-2" />
+<ListeningPart3 id="part-3" />
+<ListeningPart4 id="part-4" />
